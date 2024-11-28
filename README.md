@@ -1,16 +1,32 @@
-# parkirnow
 
-A new Flutter project.
+# Parkirnow
 
-## Getting Started
+This is the final project for the mobile development course.
 
-This project is a starting point for a Flutter application.
+## Installation
 
-A few resources to get you started if this is your first Flutter project:
+Clone project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+  git clone https://github.com/isann69/parkirnow.git
+```
+Go to project directory
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+  cd parkirnow
+```
+Run project
+
+```bash
+  flutter run
+```
+    
+    
+## Authors
+
+- Muhammad Attan
+- Ihsannul Karim
+- Mohamed Winstone Fova
+- Fauzi
+- Yana
+
